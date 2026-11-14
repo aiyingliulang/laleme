@@ -1,0 +1,220 @@
+{
+  "source": "User-retained 007_人生资产软件; snapshot 2026-11-14",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a5a0e2cbd44c8d54705a29465ffb543edae6d0e397d121a93a64fd74df62f9d0",
+      "bytes": 3659
+    },
+    {
+      "path": "build.gradle.kts",
+      "sha256": "795b5a8e9889cfcfa1e63dba93d57645ef60cab5a8d19de1524aac5331764412",
+      "bytes": 287
+    },
+    {
+      "path": "settings.gradle.kts",
+      "sha256": "82764cc56c2434c9cb13a7a681b8e6c2671c57ef1955736ed69160398a3b0a71",
+      "bytes": 330
+    },
+    {
+      "path": "gradle.properties",
+      "sha256": "ea869dd5e3db9da83dec37e5b11a5856dc6f011e9ca3478f5c0b43b300ffcf80",
+      "bytes": 167
+    },
+    {
+      "path": "gradlew.bat",
+      "sha256": "5de938b0bc94b766b9723b53a2bc437dc5b4927f5f671ee5e0f1b4d9801371e6",
+      "bytes": 301
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "sha256": "6451fa8bc6256984edae157a11435dbd19635b4b426ec37caf2355abb82530a1",
+      "bytes": 3237
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "sha256": "cc76d5aab24571d078569d93a711bc18c2d5a746de0d551238b4ae41b22bfde6",
+      "bytes": 113
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "sha256": "44c505b8df0b6a6cbe2499af7170242c6e149a09dd4f84ad5da2ab0cd709215a",
+      "bytes": 793
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/LifeAssetsApplication.kt",
+      "sha256": "4e7373cc8a4b128eef49807ca00bf2b0e3184e917661ed8d1cbacab387ded672",
+      "bytes": 1277
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/MainActivity.kt",
+      "sha256": "c3d53a38dc1e06c4477d990bbbe866a68699b1de0ea7fb6e5cae56b03aa93076",
+      "bytes": 5628
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/PooLogActivity.kt",
+      "sha256": "d5ab5ca5aa03a0c9e978d6b376ecfb1ead7b5e2ea764b576fc01e8ff802da4b7",
+      "bytes": 874
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/data/AppDatabase.kt",
+      "sha256": "07f875816818cc59d4ca68c6cc48513922fa0cf286fb22e6d9cedbc1f8e09327",
+      "bytes": 344
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/data/Backup.kt",
+      "sha256": "cce05007f27979caf911d188e930bdceed5121b3f478e366da8c7d4167c9a2eb",
+      "bytes": 6999
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/data/Daos.kt",
+      "sha256": "5d9a566cd3a3d318ca9dc3d9fa56d64e667f4d6a436b74cc022829729fb85e87",
+      "bytes": 1365
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/data/Entities.kt",
+      "sha256": "503fb4d5781434edc1d91bb1f9b6308a0ca62c83eea8954c493a7edd231a48f2",
+      "bytes": 1377
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/data/Repositories.kt",
+      "sha256": "3e17bcae081cc40ce5dd10201b8c85f24d1a2a58f9ec87de88118da282d72b16",
+      "bytes": 3609
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/domain/DateMath.kt",
+      "sha256": "987028d2d8a9caa5c06deb790b63884d741eab7088fcdd1ab2837db0a833898a",
+      "bytes": 985
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/domain/Money.kt",
+      "sha256": "7834beca3739255747196cbcbf4c9824db4969a0f97f1138b0054d1441be6e4c",
+      "bytes": 917
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/PooLogApplication.kt",
+      "sha256": "6e287eda878faa7fdf8a1343c57bc648811e5363a7aec224f80fc9b97c833a3b",
+      "bytes": 375
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/data/ToiletVisitData.kt",
+      "sha256": "07bf46a5c2a1959dda1e1d27574557d526a2917d52e64fb5cba4646d18dc2733",
+      "bytes": 1566
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/ui/PooLogApp.kt",
+      "sha256": "8133722079fd234024724a496e151ec1449ff04f0807dd1f2438ed3d2e2aa62d",
+      "bytes": 37695
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/ui/PooLogStats.kt",
+      "sha256": "8aed48c83febe131bbacad8bf70d3628b90329c387aed466b9e8f5aaaa217c05",
+      "bytes": 3612
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/ui/PooLogTheme.kt",
+      "sha256": "2518d93f55ae09af7bc46e66be75200842264526082497acfd79f53c8634fb34",
+      "bytes": 3399
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/poolog/ui/PooLogViewModel.kt",
+      "sha256": "e7dcefc88be8fd5227aa1133377638213c744a627ac4d7f943857841dbe2c753",
+      "bytes": 1314
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/Components.kt",
+      "sha256": "3d1dca8d2aa1c5d8102158f30f67f928ae70cbb404e25e381147a572a14dcd5e",
+      "bytes": 22248
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/DetailScreens.kt",
+      "sha256": "1d30e1fcad070c40f9aaf7bfd20a1e5aed9e5593271e8257bf75b06311ce7441",
+      "bytes": 7448
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/EditorScreens.kt",
+      "sha256": "40c9710bf199e479399cdf12c701b907e01f3b9f7d53d20ae0b28b37339a6f15",
+      "bytes": 22214
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/HomeScreens.kt",
+      "sha256": "2bf5affe8526dbf761701bcbff6addac0ed8ec37e9aaa058a6c4dc7f01773803",
+      "bytes": 9533
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/MainViewModel.kt",
+      "sha256": "fc621801944d39906d4ca3d0d7303bad3374ec4a40821ca7ccc6272c445e8f5d",
+      "bytes": 7452
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/MediaStorage.kt",
+      "sha256": "41a5c9ee9d1630401d3f60b63b0f7acdacb386f54bc7a213f778510b0a055dba",
+      "bytes": 895
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/ProfileScreen.kt",
+      "sha256": "7df5fcd8c5ac107e3c6342b59d2218bb15d319b9ae8d1b7784768feb5f303bff",
+      "bytes": 8481
+    },
+    {
+      "path": "app/src/main/java/com/example/lifeassets/ui/Theme.kt",
+      "sha256": "fb072b68a82033321a42ea6652e0877c54e3a0eed445c71fb3819c4d62324081",
+      "bytes": 2539
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher.xml",
+      "sha256": "32a2699540eaec423abdc466d6dd9a61c7b118c4f9e4775837a1505ade7f0401",
+      "bytes": 541
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_poop_launcher.xml",
+      "sha256": "1d5a23b5f343aa14265807ec4e7fdc413b0c7d450207b3a6c39c765ebabcd7ed",
+      "bytes": 1063
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "sha256": "18d0fca5d274f7be8eae3249d1e03d2e89b1f4bdd45b28de23394aa1d5908142",
+      "bytes": 72
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "sha256": "eb1709db6a68e96923679b192eee97693dec503a1a60391e02021cd4a585e812",
+      "bytes": 608
+    },
+    {
+      "path": "app/src/test/java/com/example/lifeassets/domain/DateMathJavaTest.java",
+      "sha256": "057a847ee8eae0ff24523f45b3eab43f9d09c2478e9513a2472a143f723fd9ec",
+      "bytes": 1041
+    },
+    {
+      "path": "app/src/test/java/com/example/lifeassets/domain/DateMathTest.kt",
+      "sha256": "a54d86276af3345ab5c4f44dd5ba819113f1ecbb1de466fbea5d532ca90b3d5f",
+      "bytes": 880
+    },
+    {
+      "path": "app/src/test/java/com/example/lifeassets/domain/MoneyJavaTest.java",
+      "sha256": "0b67624e410dbb2f0be0f5045547da5e7fe62e701945cdae92712879e67cdbb7",
+      "bytes": 710
+    },
+    {
+      "path": "app/src/test/java/com/example/lifeassets/domain/MoneyTest.kt",
+      "sha256": "e16924639592c100518eedf284ad5ebff2dbd31140250412d3965524267e404c",
+      "bytes": 597
+    },
+    {
+      "path": "app/src/test/java/com/example/lifeassets/poolog/ui/PooLogStatsTest.kt",
+      "sha256": "d1ec81a3813fc805fe4c99a21ed97cee8f460a36faa0efdfef285873cdb38a20",
+      "bytes": 5164
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "sha256": "2db75c40782f5e8ba1fc278a5574bab070adccb2d21ca5a6e5ed840888448046",
+      "bytes": 43583
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "sha256": "23f0fa1f8dbc213a191cb9089a32a88064e301b6453f87084fd4013dc4e1ce16",
+      "bytes": 253
+    }
+  ]
+}

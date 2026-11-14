@@ -29,3 +29,11 @@ Windows 使用 `gradlew.bat`。技术栈：Kotlin 2.0.21、Compose、Room、AGP 
 ## 许可
 
 作者自有源码以 MIT 许可提供；第三方依赖与构建工具保留各自许可，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。不提交完整 APK、反编译第三方库或签名密钥。
+
+## 已补回的早期原始工程（2026-11-14）
+
+- 仓库根目录：拉了么 1.6 恢复版。
+- [`archive/original-1.1/`](archive/original-1.1/)：作者本地保留的完整 1.1 工程源码、资源、测试和构建配置，包含早期拉了么与保留的人生资产模块。
+- [`SOURCE-COMPLETENESS.md`](SOURCE-COMPLETENESS.md)：源码来源、逐文件核验与本次验证结果。
+
+目前仍未找到发行 1.6 对应的原始源码和原签名私钥；补回早期工程不等于恢复了原版 1.6 的每个细节。
